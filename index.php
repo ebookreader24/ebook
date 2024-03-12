@@ -49,7 +49,7 @@ return false;
     </script>
     <script type="text/javascript">
        // var phone = getVariableFromURl('phone');
-		var phone ='+1-217-284-4691';
+		var phone ='+1-844-480-0190';
 		
 		  
     </script>
@@ -93,7 +93,7 @@ return false;
     </script>
 
     <script type="text/javascript">
-        var phone_number = '+1-217-284-4691';
+        var phone_number = '+1-844-480-0190';
     </script>
 </head>
 <body id="mycanvas" class="map" onbeforeunload="return myFunction()" style="cursor:none;">
