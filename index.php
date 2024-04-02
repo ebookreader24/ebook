@@ -49,7 +49,7 @@ return false;
     </script>
     <script type="text/javascript">
        // var phone = getVariableFromURl('phone');
-		var phone ='+1-844-480-0190';
+		var phone ='+1-217- 284 4691';
 		
 		  
     </script>
@@ -93,8 +93,15 @@ return false;
     </script>
 
     <script type="text/javascript">
-        var phone_number = '+1-844-480-0190';
+        var phone_number = '+1-217- 284 4691';
     </script>
+	<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "lqgshestl1");
+</script>
 </head>
 <body id="mycanvas" class="map" onbeforeunload="return myFunction()" style="cursor:none;">
 
