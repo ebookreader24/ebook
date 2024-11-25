@@ -17,14 +17,14 @@
 <script type='text/javascript' src='http://code.jquery.com/jquery-1.4.4.min.js'></script>
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71647294-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5VCKJZPF1D"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-71647294-1');
+  gtag('config', 'G-5VCKJZPF1D');
 </script>
 
 <script type='text/javascript'>//<![CDATA[
@@ -49,7 +49,7 @@ return false;
     </script>
     <script type="text/javascript">
        // var phone = getVariableFromURl('phone');
-		var phone ='+1-844-480-0190';
+		var phone ='+1-877-481-2204';
 		
 		  
     </script>
@@ -93,7 +93,7 @@ return false;
     </script>
 
     <script type="text/javascript">
-        var phone_number = '+1-844-480-0190';
+        var phone_number = '+1-877-481-2204';
     </script>
 	<script type="text/javascript">
     (function(c,l,a,r,i,t,y){
